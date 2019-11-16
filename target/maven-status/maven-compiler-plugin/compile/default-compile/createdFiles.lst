@@ -1,0 +1,4 @@
+com/example/focinhos/model/User.class
+com/example/focinhos/model/repository/UserRepository.class
+com/example/focinhos/controller/UserController.class
+com/example/focinhos/Application.class
